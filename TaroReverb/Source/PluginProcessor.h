@@ -57,7 +57,7 @@ public:
 private:
     juce::AudioProcessorValueTreeState::ParameterLayout createParameters();
     
-    //juce::dsp::Reverb::Parameters params;
+    juce::dsp::Reverb::Parameters params;
     juce::dsp::Reverb leftReverb, rightReverb;
     //==============================================================================
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (TaroReverbAudioProcessor)
