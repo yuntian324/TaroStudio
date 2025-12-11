@@ -9,7 +9,7 @@ OscComponent::OscComponent (juce::AudioProcessorValueTreeState& apvts, juce::Str
 {
     //gain.setColour (juce::Slider::rotarySliderFillColourId, colour);
     
-    juce::StringArray oscChoices { "Sine", "Saw", "Square" };
+    juce::StringArray oscChoices { "Sine", "Saw", "Square", "Triangular"};
     oscSelector.addItemList (oscChoices, 1);
     oscSelector.setSelectedItemIndex (0);
     addAndMakeVisible (oscSelector);

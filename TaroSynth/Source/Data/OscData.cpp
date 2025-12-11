@@ -23,7 +23,7 @@ void OscData::setType (const int oscSelection)
             initialise ([](float x) { return std::sin (x); });
             break;
             
-        // Saw
+        // Saw(sawtooth wave)锯齿波
         case 1:
             initialise ([] (float x) { return x / juce::MathConstants<float>::pi; });
             break;
@@ -32,7 +32,19 @@ void OscData::setType (const int oscSelection)
         case 2:
             initialise ([] (float x) { return x < 0.0f ? -1.0f : 1.0f; });
             break;
-            
+
+        // 三角波
+        // x范围：-pi ~ pi
+        case 3:
+            initialise ([](float x) {
+                float v = std::fmod(x, juce::MathConstants<float>::pi) / juce::MathConstants<float>::pi;
+                v = v > 0 ? v : (-v);
+                v -= 0.5f;
+                return v * 2.0f;
+                }
+            );          
+            break;
+
         default:
             // You shouldn't be here!
             jassertfalse;
