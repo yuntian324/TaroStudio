@@ -18,6 +18,7 @@ TaroNoiseGateAudioProcessorEditor::TaroNoiseGateAudioProcessorEditor (TaroNoiseG
     addAndMakeVisible (gainSlider);
     
     gainSliderAttachment = std::make_unique<juce::AudioProcessorValueTreeState::SliderAttachment>(audioProcessor.apvts, "Gain", gainSlider);
+    setSize(400, 300);
 }
 
 TaroNoiseGateAudioProcessorEditor::~TaroNoiseGateAudioProcessorEditor()
