@@ -20,7 +20,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 
 
-![image-20251211155001737](https://github.com/yuntian324/TaroStudio/blob/main/img/SimpleReverb.png)
+![image-20251211155001737](img/SimpleReverb.png)
 
 
 
@@ -32,7 +32,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 
 
-![image-20251211160854407](https://github.com/yuntian324/TaroStudio/blob/main/img/SimpleEQ.png?raw=true)
+![image-20251211160854407](img/SimpleEQ.png)
 
 
 
@@ -42,7 +42,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [.\Project4Test\Spectrum](E:\Work\git_app\juce\TaroStudio_WZB\Project4Test\Spectrum)
 
-![image-20251211153328585](.\img\Spectrum.png)
+![image-20251211153328585](img/Spectrum.png)
 
 
 
@@ -54,7 +54,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroChorus](./TaroChorus)
 
-![image-20251211160004015](.\img\TaroChorus.png)
+![image-20251211160004015](img/TaroChorus.png)
 
 
 
@@ -62,7 +62,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroCompressor](./TaroCompressor)
 
-![image-20251211164607645](.\img\TaroCompressor.png)
+![image-20251211164607645](img/TaroCompressor.png)
 
 
 
@@ -70,7 +70,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroDelay](./TaroDelay)
 
-![image-20251211161354729](.\img\TaroDelay.png)
+![image-20251211161354729](img/TaroDelay.png)
 
 
 
@@ -78,7 +78,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroDelay_CircularBuffer](./TaroDelay_CircularBuffer)
 
-![image-20251211164249587](.\img\TaroDelay_CircularBuffer.png)
+![image-20251211164249587](img/TaroDelay_CircularBuffer.png)
 
 
 
@@ -86,7 +86,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroDoubler](./TaroDoubler)
 
-![image-20251211165836057](.\img\TaroDoubler.png)
+![image-20251211165836057](img/TaroDoubler.png)
 
 
 
@@ -96,7 +96,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 
 
-![image-20251211160430656](\img\TaroEQ.png)
+![image-20251211160430656](img/TaroEQ.png)
 
 
 
@@ -104,7 +104,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroGain](./TaroGain)
 
-![image-20251211170016227](.\img\TaroGain.png)
+![image-20251211170016227](img/TaroGain.png)
 
 
 
@@ -120,7 +120,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroNoiseGate](./TaroNoiseGate)
 
-![image-20251211170218662](.\img\TaroNoiseGate.png)
+![image-20251211170218662](img/TaroNoiseGate.png)
 
 
 
@@ -128,7 +128,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroPanning](./TaroPanning)
 
-![image-20251211171033931](.\img\TaroPanning.png)
+![image-20251211171033931](img/TaroPanning.png)
 
 
 
@@ -136,7 +136,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroPhaser](./TaroPhaser)
 
-![image-20251211170441624](.\img\TaroPhaser.png)
+![image-20251211170441624](img/TaroPhaser.png)
 
 
 
@@ -144,7 +144,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [TaroReverb](./TaroReverb)
 
-![image-20251211170350638](.\img\TaroReverb.png)
+![image-20251211170350638](img/TaroReverb.png)
 
 
 
@@ -154,7 +154,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [如何拓宽或缩窄你的声场——立体声扩展(Stereo Image Widening) | 香芋派Taro](https://taropie1214.github.io/2022/12/12/如何拓宽或缩窄你的声场——立体声扩展(Stereo Image Widening)/)
 
-![image-20251211170823692](.\img\TaroStereoWidth.png)
+![image-20251211170823692](img/TaroStereoWidth.png)
 
 
 
@@ -168,7 +168,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 
 
-![image-20251211154007724](.\img\TaroSynth.png)
+![image-20251211154007724](img/TaroSynth.png)
 
 
 
@@ -176,5 +176,5 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 [./TaroTremolo](./TaroTremolo)
 
-![image-20251211154241823](.\img\Tremelo.png)
+![image-20251211154241823](img/Tremelo.png)
 
