@@ -20,7 +20,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 
 
-![image-20251211155001737](.\img\SimpleReverb.png)
+![image-20251211155001737](https://github.com/yuntian324/TaroStudio/blob/main/img/SimpleReverb.png)
 
 
 
@@ -32,7 +32,7 @@ You can find video tutorials for most of the plugins here (Only Chinese): https:
 
 
 
-![image-20251211160854407](\img\SimpleEQ.png)
+![image-20251211160854407](https://github.com/yuntian324/TaroStudio/blob/main/img/SimpleEQ.png?raw=true)
 
 
 
